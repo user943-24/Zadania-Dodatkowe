@@ -12,7 +12,6 @@ class Board {
         x = 1,
         o = 4
     };
-//comment
     std::array<std::array<int, 3>, 3> board;
 
 public:
